@@ -1,0 +1,83 @@
+
+.mypage-container {
+    max-width: 1000px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+  
+.profile-section {
+    padding: 20px;
+    border-bottom: 1px solid #e0e0e0;
+}
+  
+.section-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-decoration: underline;
+}
+  
+p {
+    font-size: 18px;
+    margin: 10px 0;
+}
+  
+.chart-section {
+    padding: 20px;
+}
+  
+.chart-title {
+    font-size: 20px;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+.chart-box {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px; /* グラフボックス間のスペース */
+}
+
+.loading {
+    text-align: center;
+    font-size: 24px;
+    color: #007bff;
+    margin-top: 50px;
+}
+
+.settings-button {
+    display: inline-block;
+    background-color: #007bff; /* 背景色 */
+    color: #fff; /* 文字色 */
+    border: none; /* 枠線なし */
+    border-radius: 5px; /* 角を丸く */
+    padding: 10px 20px; /* パディング */
+    font-size: 16px; /* フォントサイズ */
+    text-align: center; /* テキスト中央揃え */
+    text-decoration: none; /* 下線を消す */
+    cursor: pointer; /* カーソル */
+    transition: background-color 0.3s ease; /* ホバー時のアニメーション */
+    margin: 15px 0; /* マージン */
+    margin-right: 10px;
+}
+
+.settings-button:hover {
+    background-color: #0056b3; /* ホバー時の背景色 */
+}
+
+.settings-button:focus {
+    outline: none; /* フォーカス時のアウトラインを消す */
+}
+
+.settings-button:active {
+    background-color: #004494; /* クリック時の背景色 */
+}
+
+.user-settings-link {
+    color: #fff; /* 文字色 */
+    text-decoration: none; /* 下線を消す */
+}

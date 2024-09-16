@@ -1,0 +1,192 @@
+[
+  {
+    "question": {
+      "text": "Read the following passage and answer the questions below.",
+      "passage": "Johnson Manufacturing is a company that specializes in producing high-quality office furniture. The company was established in 1987 and has grown steadily since then. Johnson Manufacturing prides itself on using environmentally friendly materials and processes. The company’s headquarters are located in New York, but it has manufacturing plants in several states across the U.S. Johnson Manufacturing also exports its products to various countries around the world. The company’s success is largely attributed to its commitment to innovation and customer satisfaction. Over the years, Johnson Manufacturing has introduced several new product lines that have been well-received in the market. The company’s research and development team is constantly working on new designs and materials to keep up with changing customer preferences. In addition to its focus on product quality, Johnson Manufacturing also places a strong emphasis on employee development. The company offers various training programs and encourages its employees to pursue professional growth opportunities.",
+      "questions": [
+        {
+          "questionText": "What is one of the reasons for Johnson Manufacturing’s success?",
+          "options": {
+            "A": "It was established in 1987.",
+            "B": "It has manufacturing plants in several states.",
+            "C": "It exports products to various countries.",
+            "D": "It uses environmentally friendly materials and processes."
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "questionText": "What does Johnson Manufacturing focus on besides product quality?",
+          "options": {
+            "A": "Employee development.",
+            "B": "Lowering production costs.",
+            "C": "Expanding into new markets.",
+            "D": "Increasing the number of manufacturing plants."
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "questionText": "Where is Johnson Manufacturing’s headquarters located?",
+          "options": {
+            "A": "Los Angeles.",
+            "B": "Chicago.",
+            "C": "New York.",
+            "D": "Boston."
+          },
+          "correctAnswer": "C"
+        }
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Read the following passage and answer the questions below.",
+      "passage": "The Global Marketing Summit is an annual event that brings together marketing professionals from around the world. The summit is held in different cities each year and focuses on the latest trends and strategies in the marketing industry. Attendees have the opportunity to participate in workshops, listen to keynote speakers, and network with other professionals. This year, the summit will be held in Singapore and will feature a lineup of renowned speakers, including CEOs of major companies and experts in digital marketing. The event will cover topics such as data-driven marketing, customer engagement, and the impact of social media on consumer behavior. Participants will also have the chance to learn about the latest tools and technologies that can help them improve their marketing efforts. The Global Marketing Summit is an excellent opportunity for professionals to stay up-to-date with industry developments and gain valuable insights from experts in the field.",
+      "questions": [
+        {
+          "questionText": "What is the main purpose of the Global Marketing Summit?",
+          "options": {
+            "A": "To promote new products.",
+            "B": "To discuss the latest trends and strategies in marketing.",
+            "C": "To recruit new employees.",
+            "D": "To celebrate the success of marketing professionals."
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "questionText": "Where will this year’s Global Marketing Summit be held?",
+          "options": {
+            "A": "Tokyo.",
+            "B": "New York.",
+            "C": "London.",
+            "D": "Singapore."
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "questionText": "What will participants learn about at the summit?",
+          "options": {
+            "A": "The history of marketing.",
+            "B": "The latest tools and technologies in marketing.",
+            "C": "How to start a marketing company.",
+            "D": "The benefits of traditional advertising."
+          },
+          "correctAnswer": "B"
+        }
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Read the following passage and answer the questions below.",
+      "passage": "GreenTech Solutions is a company that develops renewable energy technologies. The company was founded in 2005 with the goal of providing sustainable energy solutions to businesses and communities. GreenTech Solutions offers a range of products, including solar panels, wind turbines, and energy storage systems. The company’s products are designed to help reduce carbon emissions and lower energy costs. GreenTech Solutions has partnered with governments and organizations around the world to promote the use of renewable energy. The company has also invested heavily in research and development to improve the efficiency of its products. GreenTech Solutions is committed to making a positive impact on the environment and is continuously looking for new ways to innovate in the renewable energy sector.",
+      "questions": [
+        {
+          "questionText": "What is the main goal of GreenTech Solutions?",
+          "options": {
+            "A": "To reduce production costs.",
+            "B": "To dominate the technology sector.",
+            "C": "To provide sustainable energy solutions.",
+            "D": "To manufacture electronic devices."
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "questionText": "Which of the following is NOT mentioned as a product of GreenTech Solutions?",
+          "options": {
+            "A": "Solar panels.",
+            "B": "Energy storage systems.",
+            "C": "Wind turbines.",
+            "D": "Electric vehicles."
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "questionText": "What has GreenTech Solutions invested in to improve its products?",
+          "options": {
+            "A": "Marketing campaigns.",
+            "B": "Research and development.",
+            "C": "Manufacturing facilities.",
+            "D": "Customer service."
+          },
+          "correctAnswer": "B"
+        }
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Read the following passage and answer the questions below.",
+      "passage": "The National Museum of Art is known for its extensive collection of modern and contemporary art. The museum, located in the heart of the city, attracts visitors from all over the world. The National Museum of Art was established in 1965 and has since grown to become one of the leading art institutions in the country. The museum’s collection includes works by renowned artists such as Pablo Picasso, Andy Warhol, and Frida Kahlo. In addition to its permanent collection, the museum hosts temporary exhibitions, educational programs, and cultural events throughout the year. The National Museum of Art is dedicated to promoting an appreciation of modern and contemporary art and providing a space for artists to showcase their work. The museum also collaborates with other art institutions and galleries to bring unique and diverse exhibitions to the public.",
+      "questions": [
+        {
+          "questionText": "What type of art does the National Museum of Art specialize in?",
+          "options": {
+            "A": "Renaissance art.",
+            "B": "Modern and contemporary art.",
+            "C": "Medieval art.",
+            "D": "Ancient artifacts."
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "questionText": "When was the National Museum of Art established?",
+          "options": {
+            "A": "1965.",
+            "B": "1975.",
+            "C": "1985.",
+            "D": "1995."
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "questionText": "Which of the following artists is mentioned as part of the museum’s collection?",
+          "options": {
+            "A": "Vincent van Gogh.",
+            "B": "Leonardo da Vinci.",
+            "C": "Andy Warhol.",
+            "D": "Claude Monet."
+          },
+          "correctAnswer": "C"
+        }
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Read the following passage and answer the questions below.",
+      "passage": "TechWave is a leading technology conference that brings together industry experts, innovators, and entrepreneurs. The conference is held annually and serves as a platform for discussing the latest advancements in technology. TechWave features keynote speeches, panel discussions, and workshops on a wide range of topics, including artificial intelligence, cybersecurity, and blockchain technology. This year’s conference will be held in San Francisco and is expected to attract thousands of attendees. In addition to the presentations and discussions, TechWave offers networking opportunities for professionals to connect with potential business partners and investors. The conference is also known for its exhibition hall, where companies showcase their latest products and innovations. TechWave is a must-attend event for anyone interested in the future of technology.",
+      "questions": [
+        {
+          "questionText": "What is the main focus of the TechWave conference?",
+          "options": {
+            "A": "The future of transportation.",
+            "B": "The latest advancements in technology.",
+            "C": "The history of the internet.",
+            "D": "The development of mobile apps."
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "questionText": "Where will this year’s TechWave conference be held?",
+          "options": {
+            "A": "New York.",
+            "B": "San Francisco.",
+            "C": "Los Angeles.",
+            "D": "Chicago."
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "questionText": "What is one of the features of the TechWave conference?",
+          "options": {
+            "A": "A competition for startups.",
+            "B": "A job fair for engineers.",
+            "C": "An exhibition hall for companies to showcase their products.",
+            "D": "A concert by a famous band."
+          },
+          "correctAnswer": "C"
+        }
+      ]
+    }
+  }
+]

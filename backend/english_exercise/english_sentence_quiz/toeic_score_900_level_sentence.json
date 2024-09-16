@@ -1,0 +1,334 @@
+{
+  "TOEIC_SCORE_900": [
+    {
+      "question": "The company's strategic pivot towards sustainable energy has been met with widespread industry acclaim.",
+      "choices": {
+        "1": "会社の持続可能エネルギーへの戦略的転換は失敗しています。",
+        "2": "会社の戦略的転換は業界全体で厳しく批判されています。",
+        "3": "会社の戦略的転換は業界全体で無視されています。",
+        "4": "会社の持続可能エネルギーへの戦略的転換は業界全体で広く称賛されています。"
+      },
+      "answer": "4"
+    },
+    {
+      "question": "Despite the extensive research conducted, the scientists were unable to conclusively prove their hypothesis.",
+      "choices": {
+        "1": "徹底的な研究が行われたにもかかわらず、科学者たちは仮説を否定しました。",
+        "2": "徹底的な研究により、科学者たちは仮説を決定的に証明しました。",
+        "3": "徹底的な研究が行われたにもかかわらず、科学者たちは仮説を決定的に証明することができませんでした。",
+        "4": "科学者たちは徹底的な研究を行うことができませんでした。"
+      },
+      "answer": "3"
+    },
+    {
+      "question": "The merger of the two companies is expected to create significant synergies, particularly in research and development.",
+      "choices": {
+        "1": "両社の合併により、特に研究開発において大きな相乗効果が期待されています。",
+        "2": "両社の合併により、相乗効果が期待されていません。",
+        "3": "両社の合併は失敗に終わると予想されています。",
+        "4": "両社の合併は、研究開発に悪影響を与えると予想されています。"
+      },
+      "answer": "1"
+    },
+    {
+      "question": "The committee was convened to address the ethical concerns raised by the recent scandal.",
+      "choices": {
+        "1": "最近のスキャンダルによって提起された倫理的懸念に対処するため、委員会が招集されました。",
+        "2": "最近のスキャンダルによって提起された法的懸念に対処するため、委員会が招集されました。",
+        "3": "委員会は、最近のスキャンダルに関する報告書を作成しました。",
+        "4": "委員会は、最近のスキャンダルについて何も行動を起こしていません。"
+      },
+      "answer": "1"
+    },
+    {
+      "question": "The CEO's visionary leadership has been instrumental in the company's unprecedented growth.",
+      "choices": {
+        "1": "CEOのリーダーシップは、会社の成長に悪影響を与えました。",
+        "2": "CEOのリーダーシップは、会社の成長にほとんど影響を与えていません。",
+        "3": "CEOのリーダーシップは、会社の衰退を引き起こしました。",
+        "4": "CEOの先見性あるリーダーシップは、会社の前例のない成長に重要な役割を果たしました。"
+      },
+      "answer": "4"
+    },
+    {
+      "question": "The board of directors expressed reservations about the proposed acquisition, citing potential risks and challenges.",
+      "choices": {
+        "1": "取締役会は、提案された買収に潜在的なリスクと課題を指摘し、懸念を示しました。",
+        "2": "取締役会は、提案された買収を支持しました。",
+        "3": "取締役会は、提案された買収に関する意見を述べませんでした。",
+        "4": "取締役会は、提案された買収がリスクのないものだと述べました。"
+      },
+      "answer": "1"
+    },
+    {
+      "question": "The new legislation mandates that all corporations disclose their environmental impact in annual reports.",
+      "choices": {
+        "1": "新しい法律により、すべての企業は環境への影響を隠すことが許されています。",
+        "2": "新しい法律により、すべての企業は年次報告書で環境への影響を開示することが義務付けられました。",
+        "3": "新しい法律により、すべての企業は環境への影響に対して罰金を科せられます。",
+        "4": "新しい法律により、すべての企業は環境への影響を無視することが許されています。"
+      },
+      "answer": "2"
+    },
+    {
+      "question": "The analyst's report highlighted the importance of diversifying the company's investment portfolio.",
+      "choices": {
+        "1": "アナリストの報告書は、会社の投資ポートフォリオを多様化することの重要性を強調しました。",
+        "2": "アナリストの報告書は、会社の投資ポートフォリオを縮小することを提案しました。",
+        "3": "アナリストの報告書は、会社の投資ポートフォリオを維持することを提案しました。",
+        "4": "アナリストの報告書は、会社の投資ポートフォリオを無視することを提案しました。"
+      },
+      "answer": "1"
+    },
+    {
+      "question": "The unexpected resignation of the CFO has raised concerns about the company's financial stability.",
+      "choices": {
+        "1": "CFOの辞任は、会社の財務の安定性にプラスの影響を与えました。",
+        "2": "CFOの辞任により、会社の財務の安定性が強化されました。",
+        "3": "CFOの辞任は、会社の財務の安定性に影響を与えませんでした。",
+        "4": "CFOの突然の辞任により、会社の財務の安定性に懸念が生じました。"
+      },
+      "answer": "4"
+    },
+    {
+      "question": "The company's decision to expand into international markets has been both bold and strategic.",
+      "choices": {
+        "1": "会社の国際市場への進出は、失敗に終わりました。",
+        "2": "会社の国際市場への進出は、軽率で無計画な決断でした。",
+        "3": "会社の国際市場への進出は、大胆で戦略的な決断でした。",
+        "4": "会社の国際市場への進出は、慎重すぎる決断でした。"
+      },
+      "answer": "3"
+    },
+    {
+      "question": "The HR department is implementing a new policy to enhance employee engagement and retention.",
+      "choices": {
+        "1": "人事部は、従業員のエンゲージメントと定着率を向上させるための新しい方針を導入しています。",
+        "2": "人事部は、従業員のエンゲージメントを低下させるための方針を導入しています。",
+        "3": "人事部は、従業員の定着率を無視しています。",
+        "4": "人事部は、従業員の定着率を減らすための方針を導入しています。"
+      },
+      "answer": "1"
+    },
+    {
+      "question": "The quarterly earnings report exceeded analysts' expectations, resulting in a surge in stock prices.",
+      "choices": {
+        "1": "四半期ごとの収益報告はアナリストの予想を上回り、株価が急上昇しました。",
+        "2": "四半期ごとの収益報告はアナリストの予想を下回り、株価が急落しました。",
+        "3": "四半期ごとの収益報告はアナリストの予想通りでした。",
+        "4": "四半期ごとの収益報告は株価に影響を与えませんでした。"
+      },
+      "answer": "1"
+    },
+    {
+      "question": "The company faced severe backlash after announcing layoffs, leading to a significant drop in employee morale.",
+      "choices": {
+        "1": "解雇を発表した後、会社は反発を受けませんでした。",
+        "2": "解雇を発表した後、会社は激しい反発に直面し、従業員の士気が大幅に低下しました。",
+        "3": "解雇を発表した後、従業員の士気は向上しました。",
+        "4": "解雇を発表した後、会社は業績が向上しました。"
+      },
+      "answer": "2"
+    },
+    {
+      "question": "The marketing campaign's success can be attributed to its innovative approach and clear messaging.",
+      "choices": {
+        "1": "マーケティングキャンペーンは失敗し、メッセージが曖昧でした。",
+        "2": "マーケティングキャンペーンの成功は、伝統的なアプローチに依存していました。",
+        "3": "マーケティングキャンペーンの成功は、その革新的なアプローチと明確なメッセージに起因します。",
+        "4": "マーケティングキャンペーンの成功は予想外でした。"
+      },
+      "answer": "3"
+    },
+    {
+      "question": "The negotiation process was lengthy, but both parties eventually reached a mutually beneficial agreement.",
+      "choices": {
+        "1": "交渉プロセスは長期化しましたが、合意には至りませんでした。",
+        "2": "交渉プロセスは短期間で終了し、両者は合意に達しませんでした。",
+        "3": "交渉プロセスは短期間で終了し、両者が利益を得ました。",
+        "4": "交渉プロセスは長期化しましたが、最終的には両者が互いに利益を得る合意に達しました。"
+      },
+      "answer": "4"
+    },
+    {
+      "question": "The recent data breach has prompted the company to enhance its cybersecurity measures significantly.",
+      "choices": {
+        "1": "会社は最近のデータ漏洩について、何の対策も講じませんでした。",
+        "2": "最近のデータ漏洩は、会社のサイバーセキュリティ対策に影響を与えませんでした。",
+        "3": "最近のデータ漏洩を受けて、会社はサイバーセキュリティ対策を大幅に強化しました。",
+        "4": "最近のデータ漏洩により、会社はサイバーセキュリティ対策を緩和しました。"
+      },
+      "answer": "3"
+    },
+    {
+      "question": "The HR department's new initiative aims to promote diversity and inclusion within the workplace.",
+      "choices": {
+        "1": "人事部の新しい取り組みは、職場での多様性を排除しています。",
+        "2": "人事部の新しい取り組みは、多様性と包括性を抑制することを目指しています。",
+        "3": "人事部の新しい取り組みは、職場での一貫性を重視しています。",
+        "4": "人事部の新しい取り組みは、職場での多様性と包括性を促進することを目指しています。"
+      },
+      "answer": "4"
+    },
+    {
+      "question": "The company's annual report highlighted a significant increase in revenue, driven by strong international sales.",
+      "choices": {
+        "1": "会社の年次報告書は、国内売上の低迷を強調しました。",
+        "2": "会社の年次報告書は、国際的な強い売上によって牽引された大幅な収益増加を強調しました。",
+        "3": "会社の年次報告書は、収益の減少を強調しました。",
+        "4": "会社の年次報告書は、国際的な売上が収益に影響を与えなかったことを示しました。"
+      },
+      "answer": "2"
+    },
+    {
+      "question": "The CEO's decision to invest in cutting-edge technology has positioned the company as a leader in the industry.",
+      "choices": {
+        "1": "CEOの最先端技術への投資決定により、会社は業界のリーダーとしての地位を確立しました。",
+        "2": "CEOの技術への投資決定は、会社を業界での後発者として位置づけました。",
+        "3": "CEOの決定は、会社を業界から撤退させる結果になりました。",
+        "4": "CEOの決定は、会社の地位にほとんど影響を与えませんでした。"
+      },
+      "answer": "1"
+    },
+    {
+      "question": "The legal team is reviewing the contract to ensure that all terms are compliant with current regulations.",
+      "choices": {
+        "1": "法務チームは、契約書のすべての条項が現行の規制に準拠していることを確認するためにレビューしています。",
+        "2": "法務チームは、契約書のレビューを行いませんでした。",
+        "3": "法務チームは、契約書の条項が規制に違反していることを確認しました。",
+        "4": "法務チームは、契約書のすべての条項を変更しました。"
+      },
+      "answer": "1"
+    },
+    {
+      "question": "The financial analyst recommended diversifying investments to mitigate potential risks.",
+      "choices": {
+        "1": "財務アナリストは、投資を多様化しないよう提案しました。",
+        "2": "財務アナリストは、リスクを増大させるために投資を集中させることを推奨しました。",
+        "3": "財務アナリストは、潜在的なリスクを軽減するために投資を多様化することを推奨しました。",
+        "4": "財務アナリストは、リスクを無視するよう提案しました。"
+      },
+      "answer": "3"
+    },
+    {
+      "question": "The company's recent acquisition of a competitor has strengthened its position in the market.",
+      "choices": {
+        "1": "会社は競合他社の買収を断念しました。",
+        "2": "競合他社の買収により、会社の市場での地位が弱体化しました。",
+        "3": "会社の買収は、市場での地位に影響を与えませんでした。",
+        "4": "競合他社の最近の買収により、会社の市場での地位が強化されました。"
+      },
+      "answer": "4"
+    },
+    {
+      "question": "The project manager emphasized the importance of adhering to the timeline to avoid delays.",
+      "choices": {
+        "1": "プロジェクトマネージャーは、遅延を避けるためにタイムラインを遵守することの重要性を強調しました。",
+        "2": "プロジェクトマネージャーは、タイムラインを無視するよう提案しました。",
+        "3": "プロジェクトマネージャーは、遅延が許容されることを強調しました。",
+        "4": "プロジェクトマネージャーは、タイムラインを遵守しないよう提案しました。"
+      },
+      "answer": "1"
+    },
+    {
+      "question": "The company's decision to downsize has led to increased efficiency and reduced operating costs.",
+      "choices": {
+        "1": "会社の人員削減の決定は、効率の低下につながりました。",
+        "2": "会社の人員削減の決定により、効率が向上し、運営コストが削減されました。",
+        "3": "会社は人員削減を行わず、運営コストが増加しました。",
+        "4": "会社の人員削減の決定により、運営コストが増加しました。"
+      },
+      "answer": "2"
+    },
+    {
+      "question": "The report recommends implementing stricter quality control measures to enhance product reliability.",
+      "choices": {
+        "1": "報告書は、製品の信頼性を高めるために厳格な品質管理措置を導入することを推奨しています。",
+        "2": "報告書は、品質管理措置を緩和することを推奨しています。",
+        "3": "報告書は、品質管理を無視するよう提案しています。",
+        "4": "報告書は、品質管理措置が不要であることを示唆しています。"
+      },
+      "answer": "1"
+    },
+    {
+      "question": "The company's new product launch was delayed due to unforeseen technical issues.",
+      "choices": {
+        "1": "会社の新製品発売は、技術的問題により中止されました。",
+        "2": "会社の新製品発売は、技術的問題がなかったため、予定通りに行われました。",
+        "3": "会社の新製品発売は、予期しない技術的問題により遅れました。",
+        "4": "会社の新製品発売は、技術的問題により前倒しされました。"
+      },
+      "answer": "3"
+    },
+    {
+      "question": "The training program was designed to equip employees with the skills needed to excel in their roles.",
+      "choices": {
+        "1": "トレーニングプログラムは、従業員のスキルを無視するために設計されました。",
+        "2": "トレーニングプログラムは、従業員がその役割で優れた能力を発揮できるように必要なスキルを身につけるために設計されました。",
+        "3": "トレーニングプログラムは、従業員の役割を混乱させるために設計されました。",
+        "4": "トレーニングプログラムは、従業員のスキル向上を目的としませんでした。"
+      },
+      "answer": "2"
+    },
+    {
+      "question": "The company's decision to expand into new markets was met with enthusiasm by the board of directors.",
+      "choices": {
+        "1": "新しい市場への進出の決定は、取締役会の熱意をもって受け入れられました。",
+        "2": "新しい市場への進出の決定は、取締役会によって拒否されました。",
+        "3": "新しい市場への進出の決定は、取締役会に無視されました。",
+        "4": "新しい市場への進出の決定は、取締役会に反対されました。"
+      },
+      "answer": "1"
+    },
+    {
+      "question": "The IT department is currently working on upgrading the company's network infrastructure.",
+      "choices": {
+        "1": "IT部門は現在、会社のネットワークインフラをアップグレードするために取り組んでいます。",
+        "2": "IT部門は現在、会社のネットワークインフラを縮小するために取り組んでいます。",
+        "3": "IT部門は現在、会社のネットワークインフラを無視しています。",
+        "4": "IT部門は現在、会社のネットワークインフラの取り壊しに取り組んでいます。"
+      },
+      "answer": "1"
+    },
+    {
+      "question": "The company's commitment to sustainability has earned it a reputation as an industry leader.",
+      "choices": {
+        "1": "会社の持続可能性への取り組みにより、業界のリーダーとしての評判を得ています。",
+        "2": "会社の持続可能性への取り組みにより、評判が低下しました。",
+        "3": "会社は持続可能性への取り組みを行っておらず、評判が低下しています。",
+        "4": "会社は持続可能性に無関心で、評判が悪化しています。"
+      },
+      "answer": "1"
+    },
+    {
+      "question": "The finance department is responsible for preparing the company's annual budget and financial statements.",
+      "choices": {
+        "1": "財務部門は、年間予算のみを作成しています。",
+        "2": "財務部門は、年間予算と財務諸表の作成に関与していません。",
+        "3": "財務部門は、会社の年間予算と財務諸表を作成する責任を負っています。",
+        "4": "財務部門は、財務諸表のみを作成しています。"
+      },
+      "answer": "3"
+    },
+    {
+      "question": "The company's customer service team is trained to handle inquiries and resolve issues efficiently.",
+      "choices": {
+        "1": "会社のカスタマーサービスチームは、問い合わせに対応し、効率的に問題を解決するための訓練を受けています。",
+        "2": "会社のカスタマーサービスチームは、問い合わせに対応しないよう訓練を受けています。",
+        "3": "会社のカスタマーサービスチームは、問題を解決しないよう訓練を受けています。",
+        "4": "会社のカスタマーサービスチームは、問題を効率的に解決できません。"
+      },
+      "answer": "1"
+    },
+    {
+      "question": "The product development team is working on a new line of eco-friendly products.",
+      "choices": {
+        "1": "製品開発チームは、新しい製品ラインの開発を中止しました。",
+        "2": "製品開発チームは、従来の製品ラインの改良に取り組んでいます。",
+        "3": "製品開発チームは、エコフレンドリーな製品に取り組んでいません。",
+        "4": "製品開発チームは、新しいエコフレンドリーな製品ラインの開発に取り組んでいます。"
+      },
+      "answer": "4"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+.rankings-page-container {
+    max-width: 1200px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f4f7f6;
+    border-radius: 10px;
+}
+
+.quiz-type-section {
+    margin-bottom: 50px;
+}
+
+.quiz-type-section h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #007bff;
+}
+
+.rankings-row {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}

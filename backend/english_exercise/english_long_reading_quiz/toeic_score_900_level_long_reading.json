@@ -1,0 +1,230 @@
+[
+  {
+    "question": {
+      "text": "Read the following passage and answer the questions below.",
+      "passage": "The exponential growth of digital transformation has profoundly influenced the global business landscape. Multinational corporations are increasingly investing in sophisticated technologies, such as artificial intelligence (AI) and blockchain, to enhance operational efficiency and secure a competitive edge. For instance, AI-powered analytics are enabling companies to derive actionable insights from vast datasets, thereby optimizing decision-making processes. Concurrently, blockchain technology is revolutionizing supply chain management by providing transparency, security, and traceability of transactions. Despite these advancements, companies face challenges such as data privacy concerns and the need for continuous upskilling of the workforce. As digital transformation continues to evolve, businesses must navigate these complexities to fully capitalize on emerging opportunities.",
+      "questions": [
+        {
+          "questionText": "What is one way AI is benefiting multinational corporations?",
+          "options": {
+            "A": "By reducing employee turnover.",
+            "B": "By lowering product development costs.",
+            "C": "By enhancing traditional advertising methods.",
+            "D": "By deriving insights from large datasets."
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "questionText": "What is one of the challenges mentioned that companies face due to digital transformation?",
+          "options": {
+            "A": "Rising costs of raw materials.",
+            "B": "Increasing competition from small businesses.",
+            "C": "Data privacy concerns.",
+            "D": "Difficulty in expanding to new markets."
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "questionText": "How is blockchain technology impacting supply chain management?",
+          "options": {
+            "A": "By enhancing transparency and security.",
+            "B": "By lowering shipping costs.",
+            "C": "By simplifying regulatory compliance.",
+            "D": "By increasing the speed of production."
+          },
+          "correctAnswer": "A"
+        }
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Read the following passage and answer the questions below.",
+      "passage": "Global climate change is one of the most pressing challenges of the 21st century, demanding immediate and concerted action from governments, businesses, and individuals alike. The unprecedented rise in greenhouse gas emissions has led to significant shifts in weather patterns, threatening ecosystems and human societies. To mitigate these impacts, international agreements such as the Paris Agreement have been established, aiming to limit global temperature increases to below 2 degrees Celsius above pre-industrial levels. However, achieving these targets requires not only a transition to renewable energy sources but also a paradigm shift in consumption habits and industrial practices. As nations work towards these goals, the balance between economic growth and environmental sustainability remains a critical consideration.",
+      "questions": [
+        {
+          "questionText": "What is the main objective of the Paris Agreement?",
+          "options": {
+            "A": "To increase economic growth in developing countries.",
+            "B": "To limit global temperature increases to below 2 degrees Celsius.",
+            "C": "To protect endangered species from extinction.",
+            "D": "To promote international trade and cooperation."
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "questionText": "What is required to achieve the targets set by the Paris Agreement?",
+          "options": {
+            "A": "A shift to renewable energy and changes in consumption habits.",
+            "B": "Increased funding for space exploration.",
+            "C": "Greater reliance on fossil fuels.",
+            "D": "Expansion of agricultural lands."
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "questionText": "What is one of the key challenges mentioned in balancing efforts to address climate change?",
+          "options": {
+            "A": "Overcoming political instability.",
+            "B": "The tension between economic growth and environmental sustainability.",
+            "C": "Increasing the population in urban areas.",
+            "D": "Improving global communication networks."
+          },
+          "correctAnswer": "B"
+        }
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Read the following passage and answer the questions below.",
+      "passage": "The rapid advancement of biotechnology has opened new frontiers in medical research, offering unprecedented possibilities for treating and preventing diseases. Genetic engineering, in particular, has enabled scientists to modify organisms at the molecular level, paving the way for innovations such as gene therapy and personalized medicine. These developments hold the promise of curing previously incurable conditions and tailoring treatments to individual genetic profiles. However, the ethical implications of such technologies are a subject of ongoing debate. Concerns include the potential for unintended consequences, such as genetic discrimination, and the long-term effects of altering the human genome. As biotechnology continues to evolve, society must carefully weigh the benefits and risks associated with these powerful tools.",
+      "questions": [
+        {
+          "questionText": "What is one potential benefit of genetic engineering mentioned in the passage?",
+          "options": {
+            "A": "Reducing global food shortages.",
+            "B": "Increasing agricultural yields.",
+            "C": "Curing previously incurable conditions.",
+            "D": "Enhancing physical strength in humans."
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "questionText": "What is a major ethical concern related to biotechnology?",
+          "options": {
+            "A": "The high cost of research and development.",
+            "B": "The potential for genetic discrimination.",
+            "C": "The risk of creating artificial intelligence.",
+            "D": "The need for large-scale clinical trials."
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "questionText": "What does the passage suggest about the future of biotechnology?",
+          "options": {
+            "A": "It will likely face increased government regulation.",
+            "B": "It will require international collaboration.",
+            "C": "It will become less relevant as other technologies emerge.",
+            "D": "Society must carefully consider the risks and benefits."
+          },
+          "correctAnswer": "D"
+        }
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Read the following passage and answer the questions below.",
+      "passage": "As global supply chains become increasingly interconnected, the role of logistics has never been more critical to business success. Efficient logistics management ensures that products move smoothly from suppliers to customers, minimizing delays and reducing costs. Companies are leveraging cutting-edge technologies such as Internet of Things (IoT) devices and advanced analytics to monitor and optimize their supply chain operations in real-time. However, with the growing complexity of global trade, logistics also faces significant challenges, including fluctuating fuel prices, regulatory compliance, and geopolitical tensions. To maintain a competitive edge, businesses must continuously innovate and adapt their logistics strategies to the ever-changing global landscape.",
+      "questions": [
+        {
+          "questionText": "What is one benefit of efficient logistics management mentioned in the passage?",
+          "options": {
+            "A": "It reduces the need for marketing campaigns.",
+            "B": "It minimizes delays and reduces costs.",
+            "C": "It increases product variety.",
+            "D": "It expands customer base."
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "questionText": "What technologies are companies using to optimize their supply chain operations?",
+          "options": {
+            "A": "IoT devices and advanced analytics.",
+            "B": "Blockchain and virtual reality.",
+            "C": "Machine learning and 3D printing.",
+            "D": "Quantum computing and drones."
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "questionText": "What challenge related to logistics is mentioned in the passage?",
+          "options": {
+            "A": "Declining demand for transportation services.",
+            "B": "The shift towards e-commerce.",
+            "C": "Increased competition from local suppliers.",
+            "D": "Fluctuating fuel prices."
+          },
+          "correctAnswer": "D"
+        }
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Read the following passage and answer the questions below.",
+      "passage": "The exploration of space has been a subject of human fascination for centuries, and recent technological advancements have brought us closer than ever to understanding the cosmos. Space agencies around the world are collaborating on ambitious projects such as the Mars colonization missions and the development of space tourism. These initiatives are driven not only by the desire for scientific discovery but also by the potential economic benefits of space exploration. The challenges are immense, including the need for sustainable life-support systems and the mitigation of cosmic radiation. As humanity looks towards the stars, the question of whether we are alone in the universe continues to inspire both scientific inquiry and philosophical reflection.",
+      "questions": [
+        {
+          "questionText": "What is one of the driving forces behind space exploration mentioned in the passage?",
+          "options": {
+            "A": "The potential economic benefits.",
+            "B": "The need to combat climate change.",
+            "C": "The search for new energy sources.",
+            "D": "The desire to improve global communication."
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "questionText": "What is one of the challenges associated with space exploration?",
+          "options": {
+            "A": "Finding alternative fuel sources.",
+            "B": "Mitigating cosmic radiation.",
+            "C": "Building larger spacecraft.",
+            "D": "Navigating political disputes over space rights."
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "questionText": "What continues to inspire scientific inquiry and philosophical reflection?",
+          "options": {
+            "A": "The possibility of time travel.",
+            "B": "The question of whether we are alone in the universe.",
+            "C": "The development of faster-than-light travel.",
+            "D": "The potential for creating artificial planets."
+          },
+          "correctAnswer": "B"
+        }
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Read the following passage and answer the questions below.",
+      "passage": "The rise of e-commerce has dramatically altered consumer behavior and business models across the globe. Companies are now able to reach a broader audience, offering products and services to customers who may never visit a physical store. This shift has led to the rapid growth of online marketplaces and the need for businesses to adopt new strategies to remain competitive. However, the expansion of e-commerce also presents challenges, including cybersecurity threats, the need for efficient logistics, and the impact on traditional brick-and-mortar stores. As the digital marketplace continues to evolve, businesses must innovate to meet the changing demands of consumers while addressing these emerging challenges.",
+      "questions": [
+        {
+          "questionText": "What is one advantage of e-commerce mentioned in the passage?",
+          "options": {
+            "A": "It reduces the need for marketing.",
+            "B": "It increases the cost of doing business.",
+            "C": "It eliminates the need for physical stores.",
+            "D": "It allows companies to reach a broader audience."
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "questionText": "What is one challenge associated with the rise of e-commerce?",
+          "options": {
+            "A": "The increase in traditional store sales.",
+            "B": "The decline of digital marketing.",
+            "C": "Cybersecurity threats.",
+            "D": "The need for fewer employees."
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "questionText": "How must businesses respond to the growth of e-commerce?",
+          "options": {
+            "A": "By innovating to meet changing consumer demands.",
+            "B": "By reducing product quality.",
+            "C": "By increasing the price of goods.",
+            "D": "By expanding their physical presence."
+          },
+          "correctAnswer": "A"
+        }
+      ]
+    }
+  }
+]

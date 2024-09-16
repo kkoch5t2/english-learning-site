@@ -1,0 +1,193 @@
+[
+    {
+      "question": {
+        "text": "Read the following passage and answer the questions below.",
+        "passage": "Sarah works at a small bookstore in her town. Every morning, she arrives early to organize the books on the shelves. She enjoys the quiet time before the store opens to customers. When the bookstore opens, Sarah greets the customers with a warm smile. She helps them find the books they are looking for and sometimes suggests her favorite ones. In the afternoon, she takes a short break and enjoys a cup of coffee while reading a chapter of a new book. On weekends, the bookstore becomes very busy. Sarah helps with managing the cash register and restocking the shelves to ensure everything is in order. She also assists in setting up displays for new arrivals and bestsellers. In the evening, before closing, Sarah makes sure the bookstore is clean and tidy. She counts the cash and prepares the store for the next day. Sarah loves her job because she gets to be around books all day and meet interesting people who share her love for reading. Working at the bookstore gives her a sense of fulfillment and joy.",
+        "questions": [
+          {
+            "questionText": "What does Sarah do every morning?",
+            "options": {
+              "A": "She reads a book.",
+              "B": "She organizes the books on the shelves.",
+              "C": "She helps customers find books.",
+              "D": "She counts the cash."
+            },
+            "correctAnswer": "B"
+          },
+          {
+            "questionText": "Why does Sarah like working at the bookstore?",
+            "options": {
+              "A": "Because she can take long breaks.",
+              "B": "Because she enjoys meeting people who love reading.",
+              "C": "Because she likes counting cash.",
+              "D": "Because she only works on weekends."
+            },
+            "correctAnswer": "B"
+          },
+          {
+            "questionText": "What does Sarah do before the bookstore closes in the evening?",
+            "options": {
+              "A": "She takes a long break.",
+              "B": "She organizes the books on the shelves.",
+              "C": "She counts the cash and prepares the store for the next day.",
+              "D": "She helps customers find books."
+            },
+            "correctAnswer": "C"
+          }
+        ]
+      }
+    },
+    {
+      "question": {
+        "text": "Read the following passage and answer the questions below.",
+        "passage": "Tom is a delivery driver for a small company. He starts his day by checking his truck and making sure all the packages are loaded. Tom likes to plan his route carefully to avoid traffic and deliver the packages on time. During his deliveries, he meets many different people. Some customers are friendly and chat with him for a while, while others are in a hurry and just take their packages quickly. At lunchtime, Tom usually finds a quiet spot to eat his meal and relax for a bit. After lunch, he continues his deliveries. Sometimes he has to deal with difficult situations, like when a customer is not at home or when a package is damaged. At the end of the day, Tom returns to the company, unloads any undelivered packages, and completes his paperwork. Tom enjoys his job because he likes driving and meeting new people. He feels satisfied when he successfully delivers all his packages.",
+        "questions": [
+          {
+            "questionText": "What does Tom do first every day?",
+            "options": {
+              "A": "He checks his truck and loads the packages.",
+              "B": "He eats his breakfast.",
+              "C": "He plans his route.",
+              "D": "He chats with customers."
+            },
+            "correctAnswer": "A"
+          },
+          {
+            "questionText": "Why does Tom like his job?",
+            "options": {
+              "A": "Because he can take long breaks.",
+              "B": "Because he likes driving and meeting new people.",
+              "C": "Because he enjoys dealing with difficult situations.",
+              "D": "Because he likes unloading packages."
+            },
+            "correctAnswer": "B"
+          },
+          {
+            "questionText": "What does Tom do at the end of the day?",
+            "options": {
+              "A": "He eats his lunch.",
+              "B": "He plans his route for the next day.",
+              "C": "He unloads undelivered packages and completes his paperwork.",
+              "D": "He chats with customers."
+            },
+            "correctAnswer": "C"
+          }
+        ]
+      }
+    },
+    {
+      "question": {
+        "text": "Read the following passage and answer the questions below.",
+        "passage": "Alice works as a teacher at a primary school. Every morning, she prepares her lessons and activities for the day. Alice enjoys seeing her students learn new things and watching them grow. She starts her classes by greeting her students and asking them how they are. Throughout the day, she teaches different subjects like math, science, and reading. She makes her lessons fun and interactive to keep the students engaged. During lunch, Alice usually eats with her colleagues and shares ideas about teaching. In the afternoon, she helps students with their homework and organizes group activities. Alice believes that every child has the potential to succeed, and she always encourages her students to do their best. After school, she spends some time grading papers and planning for the next day. Alice loves being a teacher because she can make a difference in her students' lives.",
+        "questions": [
+          {
+            "questionText": "What does Alice do every morning?",
+            "options": {
+              "A": "She eats breakfast with her colleagues.",
+              "B": "She prepares her lessons and activities.",
+              "C": "She grades papers.",
+              "D": "She teaches math."
+            },
+            "correctAnswer": "B"
+          },
+          {
+            "questionText": "Why does Alice love being a teacher?",
+            "options": {
+              "A": "Because she likes grading papers.",
+              "B": "Because she enjoys eating lunch with colleagues.",
+              "C": "Because she can make a difference in her students' lives.",
+              "D": "Because she likes planning lessons."
+            },
+            "correctAnswer": "C"
+          },
+          {
+            "questionText": "What does Alice do after school?",
+            "options": {
+              "A": "She helps students with their homework.",
+              "B": "She organizes group activities.",
+              "C": "She spends time grading papers and planning for the next day.",
+              "D": "She shares ideas about teaching with colleagues."
+            },
+            "correctAnswer": "C"
+          }
+        ]
+      }
+    },
+    {
+      "question": {
+        "text": "Read the following passage and answer the questions below.",
+        "passage": "Mike is a chef at a popular restaurant. He arrives early every morning to start preparing the ingredients for the day's menu. Mike enjoys experimenting with new recipes and creating delicious dishes for the customers. He works closely with his team to ensure that every dish is cooked to perfection. During lunch and dinner, the restaurant is very busy, and Mike has to work quickly and efficiently to keep up with the orders. He takes a short break in the afternoon to relax and think about new ideas for the menu. On weekends, the restaurant is even busier, and Mike sometimes has to work late into the night. Despite the long hours, Mike loves his job because he is passionate about cooking and enjoys making people happy with his food. He feels a great sense of accomplishment when customers compliment his dishes.",
+        "questions": [
+          {
+            "questionText": "What does Mike do first every morning?",
+            "options": {
+              "A": "He takes a short break.",
+              "B": "He starts preparing the ingredients for the day's menu.",
+              "C": "He cooks the dishes.",
+              "D": "He works with his team."
+            },
+            "correctAnswer": "B"
+          },
+          {
+            "questionText": "Why does Mike love his job?",
+            "options": {
+              "A": "Because he likes working late into the night.",
+              "B": "Because he is passionate about cooking and enjoys making people happy with his food.",
+              "C": "Because he enjoys working quickly and efficiently.",
+              "D": "Because he likes experimenting with new recipes."
+            },
+            "correctAnswer": "B"
+          },
+          {
+            "questionText": "What does Mike do in the afternoon?",
+            "options": {
+              "A": "He takes a short break to relax and think about new ideas for the menu.",
+              "B": "He cooks the dishes for lunch and dinner.",
+              "C": "He works with his team to ensure that every dish is cooked to perfection.",
+              "D": "He works late into the night."
+            },
+            "correctAnswer": "A"
+          }
+        ]
+      }
+    },
+    {
+      "question": {
+        "text": "Read the following passage and answer the questions below.",
+        "passage": "Emma works as a nurse at a hospital. She starts her day by checking on her patients and reviewing their medical charts. Emma is very compassionate and always makes sure her patients are comfortable. She administers medications, assists doctors during procedures, and monitors the patients' progress throughout the day. During her lunch break, Emma often eats in the hospital cafeteria with her colleagues. She enjoys talking to them and sharing experiences. In the afternoon, she continues to care for her patients and updates their families on their condition. Emma also trains new nurses and helps them learn the ropes. At the end of her shift, she ensures that all her patients are stable and that the next nurse on duty is well-informed about their needs. Emma loves being a nurse because she can help people and make a positive impact on their lives.",
+        "questions": [
+          {
+            "questionText": "What does Emma do first every day?",
+            "options": {
+              "A": "She eats breakfast in the cafeteria.",
+              "B": "She administers medications.",
+              "C": "She checks on her patients and reviews their medical charts.",
+              "D": "She assists doctors during procedures."
+            },
+            "correctAnswer": "C"
+          },
+          {
+            "questionText": "Why does Emma love being a nurse?",
+            "options": {
+              "A": "Because she enjoys talking to her colleagues.",
+              "B": "Because she can help people and make a positive impact on their lives.",
+              "C": "Because she likes training new nurses.",
+              "D": "Because she enjoys reviewing medical charts."
+            },
+            "correctAnswer": "B"
+          },
+          {
+            "questionText": "What does Emma do at the end of her shift?",
+            "options": {
+              "A": "She updates the patients' families.",
+              "B": "She ensures that all her patients are stable and that the next nurse on duty is well-informed about their needs.",
+              "C": "She eats in the hospital cafeteria.",
+              "D": "She administers medications."
+            },
+            "correctAnswer": "B"
+          }
+        ]
+      }
+    }
+  ]
+  

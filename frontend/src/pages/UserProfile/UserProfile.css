@@ -1,0 +1,190 @@
+.settings-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.settings-title {
+    font-size: 28px;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.settings-divider {
+    border: none;
+    border-top: 1.5px solid #333;
+    margin: 10px 0;
+}
+
+.settings-list {
+    list-style: none;
+    padding: 0;
+}
+
+.settings-list li {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.settings-link {
+    display: inline-block;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 18px;
+    text-decoration: none;
+    max-width: 250px;
+    width: 100%;
+    text-align: center;
+    transition: background-color 0.3s ease;
+    margin: 7px 0;
+}
+
+.settings-link:hover {
+    background-color: #0056b3;
+}
+
+.settings-link:focus {
+    outline: none;
+}
+
+.settings-link:active {
+    background-color: #004494;
+}
+
+.change-email-container,
+.change-username-container,
+.change-password-container,
+.change-nickname-container {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.title {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.current-email,
+.current-username,
+.current-nickname {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.email-form,
+.username-form,
+.password-form,
+.nickname-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.email-input,
+.username-input,
+.password-input,
+.nickname-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.submit-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 7px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.submit-button:hover {
+    background-color: #0056b3;
+}
+
+.submit-button:focus {
+    outline: none;
+}
+
+.submit-button:active {
+    background-color: #004494;
+}
+
+.message {
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+.message.success {
+    color: green;
+}
+
+.message.error {
+    color: red;
+}
+
+.back-button {
+    display: inline-block;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    text-decoration: none;
+    margin-top: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.back-button:hover {
+    background-color: #555;
+}
+
+.button-group {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 5px;
+}
+
+.button-group .submit-button,
+.button-group .back-button {
+    margin: 0 10px;
+}
+
+.simple-spinner {
+    border: 3px solid #f3f3f3;
+    border-top: 3px solid #333;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    animation: spin 1s linear infinite;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}

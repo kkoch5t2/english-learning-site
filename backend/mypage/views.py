@@ -295,3 +295,12 @@ def change_password(request):
         user.save()
         return JsonResponse({'message': 'Password has been changed'})
     return JsonResponse({'error': 'Invalid request'}, status=400)
+
+
+class DeleteUserView(APIView):
+    permission_classes = [IsAuthenticated]
+
+    def delete(self, request, *args, **kwargs):
+        user = request.user
+        user.delete()
+        return Response({'message': 'User deleted successfully'}, status=status.HTTP_204_NO_CONTENT)

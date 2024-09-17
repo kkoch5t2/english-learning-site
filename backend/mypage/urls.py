@@ -7,6 +7,7 @@ from .views import (
     , UserProfile
     , PasswordResetView
     , PasswordResetConfirmView
+    , DeleteUserView
     , get_csrf_token
     , register_user
     , activate_user
@@ -32,4 +33,5 @@ urlpatterns = [
     path('change-email/', change_email, name='change_email'),
     path('change-email-confirm/<uidb64>/<token>/', change_email_confirm, name='change_email_confirm'),
     path('change-password/', change_password, name='change_password'),
+    path('delete-user/', DeleteUserView.as_view(), name='delete_user'),
 ]
